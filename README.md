@@ -62,3 +62,6 @@ Official open engineering reference hubs, hardware datasheets, and compliance ap
 - [Viblo: Checklist 12 điểm kiểm tra Schematic & Layout PCB công nghiệp vượt chuẩn EMC](https://viblo.asia/p/checklist-12-diem-kiem-tra-schematic-layout-pcb-cong-nghiep-truoc-khi-gui-fab-de-vuot-bai-test-emc-iec-61000-4-wd43EXawLX9)
 - [Dev.to: Designing Industrial RS485 Circuits for High-EMI Factory Environments](https://dev.to/devicelabvn/designing-industrial-rs485-circuits-for-high-emi-factory-environments-2500vrms-isolation-600w-2114)
 - [Dev.to: Store-and-Forward Telemetry Architecture for Environmental Monitoring Dataloggers](https://dev.to/devicelabvn/store-and-forward-telemetry-architecture-for-environmental-monitoring-dataloggers-circular-4b2i)
+
+- [Huawei SmartLogger3000 & Solar Inverter Modbus RS485/TCP Guide](https://devicelab.vn/en/articles/huawei-smartlogger-3000-solar-inverter-modbus-rs485-tcp-gateway-guide/) | [VI](https://devicelab.vn/kien-thuc/ket-noi-huawei-smartlogger-3000-inverter-solar-modbus-rs485-tcp/)
+- [Industrial IoT Surge & ESD Protection Design (IEC 61000-4-5)](https://devicelab.vn/en/articles/industrial-iot-surge-esd-protection-circuit-design-tvs-gdt-iec-61000-4-5/) | [VI](https://devicelab.vn/kien-thuc/thiet-ke-mach-chong-set-lan-truyen-esd-tvs-gdt-iec-61000-4-5/)
