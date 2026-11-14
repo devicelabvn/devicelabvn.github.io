@@ -65,3 +65,8 @@ Official open engineering reference hubs, hardware datasheets, and compliance ap
 
 - [Huawei SmartLogger3000 & Solar Inverter Modbus RS485/TCP Guide](https://devicelab.vn/en/articles/huawei-smartlogger-3000-solar-inverter-modbus-rs485-tcp-gateway-guide/) | [VI](https://devicelab.vn/kien-thuc/ket-noi-huawei-smartlogger-3000-inverter-solar-modbus-rs485-tcp/)
 - [Industrial IoT Surge & ESD Protection Design (IEC 61000-4-5)](https://devicelab.vn/en/articles/industrial-iot-surge-esd-protection-circuit-design-tvs-gdt-iec-61000-4-5/) | [VI](https://devicelab.vn/kien-thuc/thiet-ke-mach-chong-set-lan-truyen-esd-tvs-gdt-iec-61000-4-5/)
+
+## Industrial Hardware Notes (2026-11-14)
+- [RS485 to Ethernet Hardware Design: W5500 vs LAN8720 & 3kV Isolation](https://devicelab.vn/en/articles/rs485-to-ethernet-hardware-design-w5500-vs-lan8720-3kv-isolation/) (VI: [Thiết kế mạch chuyển đổi RS485 sang Ethernet](https://devicelab.vn/kien-thuc/thiet-ke-mach-chuyen-doi-rs485-sang-ethernet-w5500-lan8720-cach-ly-3kv/))
+- [Industrial 24VDC Power Supply Circuit Design: Buck, Isolation & PLC EMC Guide](https://devicelab.vn/en/articles/industrial-24vdc-power-supply-circuit-design-isolated-buck-emc-guide/) (VI: [Thiết kế mạch nguồn công nghiệp 24VDC](https://devicelab.vn/kien-thuc/thiet-ke-mach-nguon-cong-nghiep-24vdc-buck-cach-ly-chong-nhieu-plc/))
+- [MCU Hardware Selection: STM32 vs ESP32-S3 & NXP](https://devicelab.vn/en/articles/microcontrollers-in-hardware-design-mcu-selection/) | [Custom PCB Design & Turnkey PCBA](https://devicelab.vn/en/custom-pcb-design/)
